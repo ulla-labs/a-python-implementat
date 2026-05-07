@@ -1,0 +1,11 @@
+{
+  "name": "python-bfs-implementation",
+  "version": "1.0.0",
+  "description": "A clean implementation of the Breadth First Search algorithm in Python.",
+  "scripts": {
+    "start": "python main.py",
+    "test": "python -m unittest discover tests"
+  },
+  "author": "Software Architect",
+  "license": "MIT"
+}
